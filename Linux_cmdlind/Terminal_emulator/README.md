@@ -13,12 +13,12 @@ OS for exc.
 go type in the terminal to your hearts content.
 
 >some daily use cmd.
->df (disk free)
->cal (calander)
->date (shows date)
->ls (list)
->cd (change dir)
->top (shows various usage stats)
+>- df (disk free)
+>- cal (calander)
+>- date (shows date)
+>- ls (list)
+>- cd (change dir)
+>- top (shows various usage stats)
 
 
 
